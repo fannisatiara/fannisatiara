@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo Semua! 👋
 
 <!--
 **fannisatiara/fannisatiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Perkenalkan nama saya **Fannisa Tiara Salsabila**.\
+Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Ponorogo](https://umpo.ac.id/).\
+Program studi yang saya ampu adalah [Teknik Informatika](http://ti.umpo.ac.id/).\
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/fannisa-tiara-salsabila-901048231/)ku ya✨
