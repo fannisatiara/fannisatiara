@@ -21,7 +21,8 @@
 ### 🛠 &nbsp; My Stat
 <p>
 <a href="https://github.com/AVS1508">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fannisatiara&layout=compact)](https://github.com/fannisatiara/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fannisatiara&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fannisatiara&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
